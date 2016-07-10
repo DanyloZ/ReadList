@@ -1,4 +1,4 @@
-package com.readList.templater;
+package readList.templater;
 
 import freemarker.template.Configuration;
 import freemarker.template.Template;
